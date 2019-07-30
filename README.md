@@ -1,4 +1,2 @@
 # github-mirror
-Mirror for GitLab
-
-## Hello world!
+Push mirror for GitLab
