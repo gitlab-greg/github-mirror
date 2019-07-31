@@ -3,3 +3,4 @@ image: ubuntu:latest
 test:
   script:
   - echo "hello world"
+  - echo "it works"
